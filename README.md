@@ -76,7 +76,7 @@ The notebook uses one NumPy random-number generator with a fixed seed. Seasonal 
 
 ## Data
 
-The Excel workbook is intentionally not included in this template. Only upload it to GitHub if you have permission to publish it.
+The Excel workbook is intentionally not included in this template. 
 
 ## Original result pattern
 
