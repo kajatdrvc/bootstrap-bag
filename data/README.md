@@ -9,5 +9,3 @@ The notebook expects:
 - a `Date` column
 - Motor Vehicle Stamp Duty as either `mvsd` or `Stamp Duty on Motor Vehicles`
 - `csi` and `hvi` for the VAR model
-
-The repository template ignores Excel files by default. Only publish the source data if you have permission to do so.
